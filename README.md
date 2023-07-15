@@ -2,13 +2,20 @@
 #Clonación de la interfaz de Google
 Creado con HTML5 Y CSS3 en el bootcamp de TecnolochicasPro
 
-## Intro
-En este proyecto de utilizó HTML y CSS para construir la clonación de la interfaz de Google
-Utilicé HTML porque...
+## 📚 Intro
+HTML5 o HyperText Markup Language, es el componente básico de la web y junto con CSS3, se crean páginas web que usamos todos los días en el navegador. Definimos el significado, la estructura y el estilo del contenido web a través de estas tecnologías. 
+En este proyecto, se utilizó HTML y CSS para construir una clonación de la interfaz de Google.
 
-## ¿Qué contrruí?
-El proyecto está enfocado en la construcción de la interfaz de Ggoogle, tomando especial atención a su Interfaz de ususario y Experiencia de Usario para replicar comportamiento y estilo al 100%
+## 👩🏽‍💻 ¿Qué construí?
+El proyecto está enfocado en la construcción de la interfaz de Google, tomando especial atención a su UI/UX para replicar su comportamiento y estilo al 100%. La interfaz se encuentra dividida en las siguientes secciones: 
 
-## Objetivo del proyecto 
-Aprender a utilizar los elementos de HTML5 y propiedades de CSS; así como ientificar componentes base de un sitio web para analizarlas y replicarlas 
+* Header: Sección donde se encuentra la navegación principal de Google, como la foto de perfil del usuarix, íconos y menú. 
 
+* Main: Sección del contenedor para los elementos centrales y más importantes de la interfaz: logo, barra de búsqueda, íconos y botones. 
+
+* Footer: Sección que contiene información extra para el usuarix, así como hipervínculos al final de la página. 
+
+## 🚀 Objetivo del Proyecto
+Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes base de un sitio web, para analizarlas y replicarlas. 
+
+## 🔗 ¡Link al Demo!
